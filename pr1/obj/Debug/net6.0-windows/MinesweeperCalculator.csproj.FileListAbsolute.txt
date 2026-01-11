@@ -1,21 +1,20 @@
-D:\С#\bin\Debug\net6.0-windows\MinesweeperCalculator.exe
-D:\С#\bin\Debug\net6.0-windows\MinesweeperCalculator.deps.json
-D:\С#\bin\Debug\net6.0-windows\MinesweeperCalculator.runtimeconfig.json
-D:\С#\bin\Debug\net6.0-windows\MinesweeperCalculator.dll
-D:\С#\bin\Debug\net6.0-windows\MinesweeperCalculator.pdb
-D:\С#\obj\Debug\net6.0-windows\MainWindow.baml
-D:\С#\obj\Debug\net6.0-windows\MainWindow.g.cs
-D:\С#\obj\Debug\net6.0-windows\App.g.cs
-D:\С#\obj\Debug\net6.0-windows\MinesweeperCalculator_MarkupCompile.cache
-D:\С#\obj\Debug\net6.0-windows\MinesweeperCalculator.g.resources
-D:\С#\obj\Debug\net6.0-windows\MinesweeperCalculator.GeneratedMSBuildEditorConfig.editorconfig
-D:\С#\obj\Debug\net6.0-windows\MinesweeperCalculator.AssemblyInfoInputs.cache
-D:\С#\obj\Debug\net6.0-windows\MinesweeperCalculator.AssemblyInfo.cs
-D:\С#\obj\Debug\net6.0-windows\MinesweeperCalculator.csproj.CoreCompileInputs.cache
-D:\С#\obj\Debug\net6.0-windows\MinesweeperCalculator.dll
-D:\С#\obj\Debug\net6.0-windows\refint\MinesweeperCalculator.dll
-D:\С#\obj\Debug\net6.0-windows\MinesweeperCalculator.pdb
-D:\С#\obj\Debug\net6.0-windows\MinesweeperCalculator.genruntimeconfig.cache
-D:\С#\obj\Debug\net6.0-windows\ref\MinesweeperCalculator.dll
-D:\С#\obj\Debug\net6.0-windows\lol.baml
-D:\С#\obj\Debug\net6.0-windows\lol.g.cs
+C:\Users\PC\Desktop\Илья-разработка\WPF project\pr1\bin\Debug\net6.0-windows\MinesweeperCalculator.exe
+C:\Users\PC\Desktop\Илья-разработка\WPF project\pr1\bin\Debug\net6.0-windows\MinesweeperCalculator.deps.json
+C:\Users\PC\Desktop\Илья-разработка\WPF project\pr1\bin\Debug\net6.0-windows\MinesweeperCalculator.runtimeconfig.json
+C:\Users\PC\Desktop\Илья-разработка\WPF project\pr1\bin\Debug\net6.0-windows\MinesweeperCalculator.dll
+C:\Users\PC\Desktop\Илья-разработка\WPF project\pr1\bin\Debug\net6.0-windows\MinesweeperCalculator.pdb
+C:\Users\PC\Desktop\Илья-разработка\WPF project\pr1\obj\Debug\net6.0-windows\CalculatorWindow.baml
+C:\Users\PC\Desktop\Илья-разработка\WPF project\pr1\obj\Debug\net6.0-windows\CalculatorWindow.g.cs
+C:\Users\PC\Desktop\Илья-разработка\WPF project\pr1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\PC\Desktop\Илья-разработка\WPF project\pr1\obj\Debug\net6.0-windows\MinesweeperCalculator_MarkupCompile.cache
+C:\Users\PC\Desktop\Илья-разработка\WPF project\pr1\obj\Debug\net6.0-windows\MinesweeperCalculator.g.resources
+C:\Users\PC\Desktop\Илья-разработка\WPF project\pr1\obj\Debug\net6.0-windows\MinesweeperCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Илья-разработка\WPF project\pr1\obj\Debug\net6.0-windows\MinesweeperCalculator.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Илья-разработка\WPF project\pr1\obj\Debug\net6.0-windows\MinesweeperCalculator.AssemblyInfo.cs
+C:\Users\PC\Desktop\Илья-разработка\WPF project\pr1\obj\Debug\net6.0-windows\MinesweeperCalculator.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Илья-разработка\WPF project\pr1\obj\Debug\net6.0-windows\MinesweeperCalculator.sourcelink.json
+C:\Users\PC\Desktop\Илья-разработка\WPF project\pr1\obj\Debug\net6.0-windows\MinesweeperCalculator.dll
+C:\Users\PC\Desktop\Илья-разработка\WPF project\pr1\obj\Debug\net6.0-windows\refint\MinesweeperCalculator.dll
+C:\Users\PC\Desktop\Илья-разработка\WPF project\pr1\obj\Debug\net6.0-windows\MinesweeperCalculator.pdb
+C:\Users\PC\Desktop\Илья-разработка\WPF project\pr1\obj\Debug\net6.0-windows\MinesweeperCalculator.genruntimeconfig.cache
+C:\Users\PC\Desktop\Илья-разработка\WPF project\pr1\obj\Debug\net6.0-windows\ref\MinesweeperCalculator.dll

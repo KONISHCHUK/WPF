@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\С#\\MinesweeperCalculator.csproj": {}
+    "C:\\Users\\PC\\Desktop\\Илья-разработка\\WPF project\\pr1\\MinesweeperCalculator.csproj": {}
   },
   "projects": {
-    "D:\\С#\\MinesweeperCalculator.csproj": {
+    "C:\\Users\\PC\\Desktop\\Илья-разработка\\WPF project\\pr1\\MinesweeperCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\С#\\MinesweeperCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Илья-разработка\\WPF project\\pr1\\MinesweeperCalculator.csproj",
         "projectName": "MinesweeperCalculator",
-        "projectPath": "D:\\С#\\MinesweeperCalculator.csproj",
-        "packagesPath": "C:\\Users\\Alyon\\.nuget\\packages\\",
-        "outputPath": "D:\\С#\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Desktop\\Илья-разработка\\WPF project\\pr1\\MinesweeperCalculator.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\Илья-разработка\\WPF project\\pr1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Alyon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
